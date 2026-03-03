@@ -1,10 +1,7 @@
-
-<div align="center">
-  <!-- Replace with your project logo or branded dashboard banner -->
-  <img width="320px" src="YOUR_PROJECT_LOGO_LINK_HERE" />
-</div>
-
 <h1 align="center">Healthcare KPI Performance Analytics System</h1>
+<div align="center">
+  <img width="900px" src="Images/Dashboard.png" />
+</div>
 
 <p align="center">
 An Executive Intelligence Dashboard for Data-Driven Healthcare Management
@@ -39,9 +36,7 @@ The <strong>Healthcare KPI Performance Analytics System</strong> centralizes cli
 <h1 align="center">Executive Dashboard Overview</h1>
 
 <div align="center">
-  <!-- INSERT: Full Power BI Dashboard Screenshot -->
-  <!-- Include KPI Cards + Filters + Key Visuals -->
-  <img width="1000" src="YOUR_EXECUTIVE_DASHBOARD_SCREENSHOT_LINK_HERE" />
+  <img width="1000" src="Images/KPI's.png" />
 </div>
 
 <br>
